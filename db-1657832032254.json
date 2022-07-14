@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    },
+    {
+      "email": "prueba@gmail.com",
+      "password": "$2a$10$Zd5RSkzPNVRPBsC.ZPUCrecdKyTlfiYBqaiteCi0wRxWlRnasYHuG",
+      "id": "xlskxnvrc5el5974j9e"
+    },
+    {
+      "email": "prueba2@gmail.com",
+      "password": "$2a$10$2y3x0qCYaBa3lwAepSUGbeGYFlvI/JWi5rMUH.yy6pHaAq/0Q/xee",
+      "id": 10
+    },
+    {
+      "email": "d@gmail.com",
+      "password": "$2a$10$txwDKOzp3qwod2AwJ6pxd.NR/JUvZcFTUxsTadbFs6OuUj2uwBJ4S",
+      "id": "aayg3y3xwsil5htdm9h"
+    },
+    {
+      "email": "dan@gmail.com",
+      "password": "$2a$10$mQ0XGYF.d6hxd3/GBoasX.xtUzlkpIi9V1W8RHvn.yvdpEnHuuyJq",
+      "id": "g58jwgs9bupl5lianuq"
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "Zapatos",
+      "image": "https://cdn.icon-icons.com/icons2/376/PNG/256/Vans_Curls_Red_37320.png",
+      "stock": 7,
+      "price": 500,
+      "shortDesc": "Pieza de calzado que protege al pie, brindándole comodidad a la persona.",
+      "description": "Los zapatos cuentan con una suela y una estructura de cuero, goma u otro material que llega hasta al tobillo."
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "Bolsas",
+      "image": "https://cdn.icon-icons.com/icons2/1639/PNG/512/12191shoppingbags_109561.png",
+      "stock": 7,
+      "price": 300,
+      "shortDesc": "Es una especie de saco de papel, plástico, tela u otro material, que se utiliza para guardar o trasladar cosas.",
+      "description": "tipo de saco hecho de tela, papel, plástico o cualquier otro material, y se emplea para guardar o mover cosas."
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "Camisas",
+      "image": "https://cdn.icon-icons.com/icons2/1080/PNG/512/womans-shirt_78053.png",
+      "stock": 8,
+      "price": 150,
+      "shortDesc": "Prenda de vestir de tela que cubre el torso , abotonada por delante , generalmente con cuello y mangas.",
+      "description": "Es una prenda de vestir compuesta por diferentes elementos que, combinados entre ellos, dan un número infinito de modelos de camisas."
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "Pantalones",
+      "image": "https://cdn.icon-icons.com/icons2/37/PNG/512/pants_3389.png",
+      "stock": 8,
+      "price": 250,
+      "shortDesc": "Prenda de vestir que se ajusta a la cintura y llega generalmente hasta el pie.",
+      "description": "El pantalón es una prenda de vestir que se ajusta a la cintura y llega a una altura variable de la pierna o hasta los tobillos, cubriendo cada pierna por separado."
+    },
+    {
+      "id": "fdkq78lt5p4l4yq87dk",
+      "name": "Sudadera",
+      "image": "https://cdn.icon-icons.com/icons2/1079/PNG/512/sweater_78020.png",
+      "price": "300.25",
+      "stock": 13,
+      "shortDesc": "Sudadera de tela de algodon",
+      "description": "Sudadera que ayuda a quitar el frio"
+    },
+    {
+      "id": "i34gzv0xc0il4yqfjhh",
+      "name": "Daniel Medina",
+      "image": "https://cdn.icon-icons.com/icons2/1079/PNG/512/sweater_78020.png",
+      "price": "500.78",
+      "stock": 19,
+      "shortDesc": "Prueba",
+      "description": "2"
+    },
+    {
+      "id": "4tkvvbo0ppgl4z3298s",
+      "name": "Nuevo Producto",
+      "image": "https://cdn-icons-png.flaticon.com/512/703/703221.png",
+      "price": "700.85",
+      "stock": "35",
+      "shortDesc": "Saco elegante",
+      "description": "elegante saco color gris hecho a la medida."
+    },
+    {
+      "id": "ur2dk6zhxjl4zlw1hu",
+      "name": "Vestido",
+      "image": "https://cdn-icons-png.flaticon.com/512/26/26819.png",
+      "price": "890.45",
+      "stock": "58",
+      "shortDesc": "Vestido de tela de seda",
+      "description": "Vestido hecho con la mejor tela de arabia para su uso y comodidad."
+    }
+  ]
+}
